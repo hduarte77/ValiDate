@@ -13,5 +13,7 @@
             "name": "Humberto Duarte"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
