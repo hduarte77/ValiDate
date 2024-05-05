@@ -1,0 +1,17 @@
+{
+    "name": "hduarte77/validate",
+    "description": "Verify if a timestamp is valid for specific Time Zone.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "hduarte77\\ValiDate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Humberto Duarte"
+        }
+    ],
+    "require": {}
+}
